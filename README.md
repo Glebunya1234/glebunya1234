@@ -1,6 +1,6 @@
-<h1>Welcome</h1>
+
 <p align="center">
- <img src="assets/9uiU.gif" style="width: 1300px; height: 500px; object-fit: cover;"/>
+ <img src="assets/5IUl.gif" style="width: 1000px; height: 450px; object-fit: cover;"/>
 </p>
 
 
