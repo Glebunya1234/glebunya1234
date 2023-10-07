@@ -1,8 +1,9 @@
 <h1>Welcome</h1>
-
 <p align="center">
-      <img src="assets/9uiU.gif"/>
+ <img src="assets/9uiU.gif" style="width: 1300px; height: 500px; object-fit: cover;"/>
 </p>
+
+
 
 ## Languages, Frameworks and more
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,11 +16,14 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=white)
+![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=white) 
 
 ## Also worked in
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=white) 
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=white) 
+
 <h6 align="right">psss make models better than games</h6>
 
 ## About me
