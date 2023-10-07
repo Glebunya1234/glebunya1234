@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="assets/5IUl.gif" style="width: 1000px; height: 450px; object-fit: cover;"/>
+ <img src="assets/5IUl (1).gif" style="width: 1000px; "/>
 </p>
 
 
