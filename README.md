@@ -1,21 +1,26 @@
 <table>
-<tr>
+ <tr>
+  <td>
+   <h2 align="center">Well, if you got here, then apparently you got into the wilds of the git hub</h2>
+   <p></p>
+  </tr>
+ </td>
  
+<tr>
  <td>
   <p align="center">
    <img src="assets/5IUl (1).gif" style="width: 1000px; "/>
   </p>
  </td>
- 
 </tr>
 
  <tr>
   <td>
 
    ## About me
-   <h3  >
+   <h3>
       А simple student who decided that he was a genius and began to study computer technology,write code and while listening to Cellweler, watching anime, and  eating instant noodles. So far there is nothing here like in the desert, but soon everything will be 
-
+      <p></p>
    </h3>
 
   </td>
@@ -54,7 +59,4 @@
   </td>
 </tr>
 
-
-
-  
 </table>
