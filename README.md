@@ -58,5 +58,19 @@
 
   </td>
 </tr>
+<tr>
+  <td>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Glebunya1234&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<tr>
+  <td>
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Yes%2C+I+agree%2C+the+diagram+are+almost+empty%2C+but+I+was+just+too+lazy+to+post+everything+on+the+git+hub)](https://git.io/typing-svg)
+
+  </td>
+</tr>
+
+  </td>
+</tr>
 </table>
