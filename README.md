@@ -42,6 +42,7 @@
    ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=white)
    ![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mysql&logoColor=white) 
    ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=white) 
+   ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=white)
  
  </td>
 </tr>
