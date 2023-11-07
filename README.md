@@ -52,7 +52,7 @@
    
    ## Also worked in
    ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=white) 
-   ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=unrealengine&logoColor=white) 
+   ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-090909?style=for-the-badge&logo=unrealengine&logoColor=white) 
    ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=white) 
 
    <h6 align="right">psss make models better than games</h6>
