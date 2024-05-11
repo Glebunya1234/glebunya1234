@@ -38,6 +38,7 @@
    ![Nextjs](https://img.shields.io/badge/-Nextjs-090909?style=for-the-badge&logo=nextdotjs&logoColor=white)
    ![Nodejs](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![Tailwindcss](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwindcss&logoColor=white)
+   ![Framer](https://img.shields.io/badge/-Framer-090909?style=for-the-badge&logo=framer&logoColor=white)
    ![JQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery&logoColor=white) 
    ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp)
    ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=white)
