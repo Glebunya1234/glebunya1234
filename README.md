@@ -40,7 +40,7 @@
    ![Tailwindcss](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwindcss&logoColor=white)
    ![Framer](https://img.shields.io/badge/-Framer-090909?style=for-the-badge&logo=framer&logoColor=white)
    ![JQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery&logoColor=white) 
-   ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp)
+   ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=dotnet)
    ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=white)
    ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=white) 
