@@ -19,7 +19,7 @@
 
    ## About me
    <h3>
-      А simple student who decided that he was a genius and began to study computer technology,write code and while listening to Celldweller, watching anime, and  eating instant noodles. So far there is nothing here like in the desert, but soon everything will be 
+      А simple student who decided that he was a genius and began to study computer technology,write code and while listening to Spotify, watching anime, and  eating instant noodles. So far there is nothing here like in the desert, but soon everything will be 
       <p></p>
    </h3>
 
