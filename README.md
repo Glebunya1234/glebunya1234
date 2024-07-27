@@ -32,9 +32,10 @@
    ## Languages, Frameworks and more
    ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=white)
+   ![SASS](https://img.shields.io/badge/-sass/scss-090909?style=for-the-badge&logo=sass&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=white)
-   ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=white)
+   ![Reactjs](https://img.shields.io/badge/-Reactjs-090909?style=for-the-badge&logo=react&logoColor=white)
    ![Nextjs](https://img.shields.io/badge/-Nextjs-090909?style=for-the-badge&logo=nextdotjs&logoColor=white)
    ![Nodejs](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![Tailwindcss](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwindcss&logoColor=white)
